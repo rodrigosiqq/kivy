@@ -1,0 +1,3 @@
+diretórios do enviroment estão iguais venv/venv
+instalação do kivy:
+python -m pip install kivy[base] kivy_examples
